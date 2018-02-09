@@ -1,4 +1,4 @@
-# Curated assets
+# Assets
 
 Logo made with [open-iconic](https://github.com/iconic/open-iconic) SVG icons.
 
