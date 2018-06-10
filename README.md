@@ -1,9 +1,3 @@
-# Assets
+# Curated
 
-Logo by [onlinewebfonts.com](https://www.onlinewebfonts.com/icon/56631).
-
-<img src="./logo/logo.png" alt="Curated" width="250" height="250">
-
-Inspectocat by [Jason Costello](https://github.com/jasoncostello) and [GitHub](https://octodex.github.com).
-
-<img src="./octodex/inspectocat.jpg" alt="Inspectocat" width="250" height="250">
+Curated is an open source & data platform consisting of a curated dataset of GitHub comments ranked by user reactions for popular repositories. The goal is to provide access to relevant information for anyone who's interested in learning best practices and development history of popular open source projects.
