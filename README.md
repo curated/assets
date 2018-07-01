@@ -1,7 +1,8 @@
-# Curated
+# docs
 
-Curated is an indexed dataset of popular GitHub comments ranked by user reactions. It's written in Golang and React and it's composed by the following systems:
+Curated (https://curated.github.io) is an indexed dataset of popular GitHub comments ranked by user reactions. It's written in Golang and React and it's available thanks to open source hosting by:
 
-- Octograph - Go worker - fetches GitHub issues via GraphQL and indexes them into Elasticsearch.
-- Elastic - Go http server - search interface consumed by the UI relaying requests to Elasticsearch.
-- Web - React responsive web app - UI static assets deployed to GitHub pages at curated.github.io.
+- Bonsai Elasticsearch: https://bonsai.io/pricing#shared
+- Heroku Dyno Worker: https://devcenter.heroku.com/articles/background-jobs-queueing
+- GitHub GraphQL: https://developer.github.com/v4
+- GitHub Pages: https://pages.github.com
